@@ -1,0 +1,2 @@
+C:\Users\Jorge\source\repos\SnakeApp\x64\Debug\SnakeApp.exe
+C:\Users\Jorge\source\repos\SnakeApp\x64\Debug\SnakeApp.pdb
